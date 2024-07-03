@@ -37,3 +37,6 @@ Run the following commands in the root of the project to start the development s
 ```bash
 cargo tauri dev
 ```
+
+# generate new template
+To generate a new template, ensure `cargo install create-tauri-app` was executed before. Now generate a new template with `cargo create-tauri-app`
